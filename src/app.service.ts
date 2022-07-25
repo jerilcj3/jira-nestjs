@@ -33,7 +33,7 @@ export class AppService {
         method: 'GET',
         headers: {
           Authorization: `Basic ${Buffer.from(
-            'info@lithan.com:j020d3PSHIgv16L8zr30F7EE',
+            'info@lithan.com:WwPkutW6sWBs69eyu2i9C5B2',
           ).toString('base64')}`,
           Accept: 'application/json',
         },
